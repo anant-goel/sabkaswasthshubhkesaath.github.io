@@ -4,8 +4,8 @@
 
 # Name of your site (displayed in the header)
 name: Gitika Aggarwal
-theme: minima
-remote_theme: minima
+theme: architect
+remote_theme: architect
 # Short bio or description (displayed in the header)
 description: Here you can get more about naturl products good for health
 
