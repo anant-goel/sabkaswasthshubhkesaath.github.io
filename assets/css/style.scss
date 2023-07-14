@@ -3,3 +3,6 @@
 
 @import 'jekyll-theme-architect';
 @import "jekyll-theme-modernist";
+@import
+  "minima/skins/{{ site.minima.skin | default: 'classic' }}",
+  "minima/initialize";
