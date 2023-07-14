@@ -7,7 +7,7 @@ name: Gitika Aggarwal
 theme: minima
 remote_theme: minima
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Here you can get more about naturl products good for health
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/anant-goel/sabkaswasthshubhkesaath.github.io/kramdown-and-rouge/images/logo.jpg
@@ -17,7 +17,7 @@ avatar: https://raw.githubusercontent.com/anant-goel/sabkaswasthshubhkesaath.git
 #
 
 # Includes an icon in the footer for each username you enter
-footer-links:
+footer-links: https://raw.githubusercontent.com/anant-goel/sabkaswasthshubhkesaath.github.io/kramdown-and-rouge/images/logo.jpg
   dribbble:
   email: your@gmail.com
   facebook:
