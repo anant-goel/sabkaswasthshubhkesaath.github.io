@@ -18,7 +18,7 @@ avatar: https://telegra.ph/file/09a0bd8752ea4eea61146.jpg
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: your@gmail.com
   facebook:
   flickr:
   github: anant-goel
@@ -28,7 +28,7 @@ footer-links:
   rss: # just type anything here for a working RSS icon
   twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
+  youtube: channel/sabkaswasthshubhkesaath6909 # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
@@ -56,7 +56,7 @@ baseurl: ""
 permalink: /:title/
 
 # The release of Jekyll Now that you're using
-version: v1.2.0
+version: v2.2.0
 
 # Jekyll 3 now only supports Kramdown for Markdown
 kramdown:
